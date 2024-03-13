@@ -19,7 +19,7 @@ int main() {
 }
 
 
-Output:
+OUTPUT:
 Parent process running.
 Parent PID: 15090
 Parent's parent PID: 15083
