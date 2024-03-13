@@ -7,7 +7,3 @@ int main() {
 	return 0;
    
 }
-
-OUTPUT:
-Process ID:56740
-Parent Process ID: 56740
